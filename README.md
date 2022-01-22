@@ -1,4 +1,4 @@
-# C# Tips and Tools for me!
+# C# Tips and Tools
 
 - in, out and ref
 - abstract vs interface
