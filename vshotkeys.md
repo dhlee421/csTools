@@ -1,8 +1,11 @@
 Top 10 List
-- Ctrl + K + D, Ctrl + K + F
+
 - Ctrl + K + E
+
 - Ctrl + K + S
+
 - Select Column Alt + Mouse
+
 1. Open Containing Folder (right-click on a tab) and Copy Full Path (right-click on a tab)
 2. Add suggestions for assemblies and NuGet packages as well as prefer auto-properties - Under Tools - Options - Text Editor - C# - Advanced
 3. Go To Definition (F12 or Ctrl+Click) or Go To Implementation (Ctrl+F12)
@@ -14,27 +17,27 @@ Top 10 List
 9. Show Intellisense (Ctrl+J) or Show Parameter Information (Ctrl+Shift+Space)
 10. Multi-Cursor (Shift+Alt+Up/Down Arrow)
 
-__ctrl [k][c]__ comment selection
+Comment Selection __ctrl [k][c]__ 
 
-__ctrl [k][u]__ uncomment selection
+Uncomment Selection __ctrl [k][u]__ 
 
-**ctrl [k][d]** format document
+Format Document **ctrl [k][d]**
 
-**ctrl [k][f]** format selection
+Format Selection **ctrl [k][f]** 
 
-**ctrl [tab]** Bring up window nav dialog
+Bring up window nav dialog **ctrl [tab]** 
 
-**ctrl [space]**  Bring up Intellisene window
+Bring up Intellisene window **ctrl [space]**  
 
-**ctrl [k][s]** Surround selected code with
+Surround selected code with **ctrl [k][s]** 
 
-**ctrl [k][x]** open snippets dropdown
+Open snippets dropdown **ctrl [k][x]** 
 
-**ctrl [k][b]** bring up code snippets manager
+Bring up code snippets manager **ctrl [k][b]** 
 
-**ctrl [,]** refactor /quick actions menu
+Refactor /quick actions menu **ctrl [,]** 
 
-**ctrl [;]** search solution explorer
+Search Solution Explorer **ctrl [;]** 
 
 : wpf view and viewmodel bind
 : Implementing Singleton in C#
