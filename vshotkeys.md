@@ -15,28 +15,46 @@ Top 10 List
 10. Multi-Cursor (Shift+Alt+Up/Down Arrow)
 
 __ctrl [k][c]__ comment selection
+
 __ctrl [k][u]__ uncomment selection
+
 **ctrl [k][d]** format document
+
 **ctrl [k][f]** format selection
+
 **ctrl [tab]** Bring up window nav dialog
+
 **ctrl [space]**  Bring up Intellisene window
+
 **ctrl [k][s]** Surround selected code with
+
 **ctrl [k][x]** open snippets dropdown
+
 **ctrl [k][b]** bring up code snippets manager
+
 **ctrl [,]** refactor /quick actions menu
+
 **ctrl [;]** search solution explorer
 
 : wpf view and viewmodel bind
 : Implementing Singleton in C#
 
 Multi-line Editing using the mouse : Alt + Mouse
+
 Multi-line editing using the keyboard : Alt + Shift + Arrow
+
 Multi Carets Editing  : CTRL + ALT + CLICK
+
 Insert Carets at all matching locations : ALT SHIFT + ;
+
 Sync the Current Document in Solution : Ctrl + [ + s
 
 Toggle Bookmark : Ctrl + K + K
+
 Go to previous Bookmark : Ctrl + K + P
+
 Go to next Bookmark : Ctrl + K + N
+
 Clear all bookmarks in all files : Ctrl + K + L
+
 Open Bookmark Window : Ctrl + K + W
