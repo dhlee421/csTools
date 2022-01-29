@@ -18,13 +18,13 @@ __ctrl [k][c]__ comment selection
 __ctrl [k][u]__ uncomment selection
 **ctrl [k][d]** format document
 **ctrl [k][f]** format selection
-ctrl [tab] Bring up window nav dialog
-ctrl [space]  Bring up Intellisene window
-ctrl [k][s] Surround selected code with
-ctrl [k][x] open snippets dropdown
-ctrl [k][b] bring up code snippets manager
-ctrl [,] refactor /quick actions menu
-ctrl [;] search solution explorer
+**ctrl [tab]** Bring up window nav dialog
+**ctrl [space]**  Bring up Intellisene window
+**ctrl [k][s]** Surround selected code with
+**ctrl [k][x]** open snippets dropdown
+**ctrl [k][b]** bring up code snippets manager
+**ctrl [,]** refactor /quick actions menu
+**ctrl [;]** search solution explorer
 
 : wpf view and viewmodel bind
 : Implementing Singleton in C#
