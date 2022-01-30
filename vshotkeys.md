@@ -39,25 +39,22 @@ Refactor /quick actions menu **ctrl [,]**
 
 Search Solution Explorer **ctrl [;]** 
 
-: wpf view and viewmodel bind
-: Implementing Singleton in C#
+Multi-line Editing using the mouse : __Alt + Mouse__
 
-Multi-line Editing using the mouse : Alt + Mouse
+Multi-line editing using the keyboard : __Alt + Shift + Arrow__
 
-Multi-line editing using the keyboard : Alt + Shift + Arrow
+Multi Carets Editing  : __CTRL + ALT + CLICK__
 
-Multi Carets Editing  : CTRL + ALT + CLICK
+Insert Carets at all matching locations : __ALT SHIFT + ;__
 
-Insert Carets at all matching locations : ALT SHIFT + ;
+Sync the Current Document in Solution : __Ctrl + [ + s__
 
-Sync the Current Document in Solution : Ctrl + [ + s
+Toggle Bookmark : __Ctrl + K + K__
 
-Toggle Bookmark : Ctrl + K + K
+Go to previous Bookmark : __Ctrl + K + P__
 
-Go to previous Bookmark : Ctrl + K + P
+Go to next Bookmark : __Ctrl + K + N__
 
-Go to next Bookmark : Ctrl + K + N
+Clear all bookmarks in all files : __Ctrl + K + L__
 
-Clear all bookmarks in all files : Ctrl + K + L
-
-Open Bookmark Window : Ctrl + K + W
+Open Bookmark Window : __Ctrl + K + W__
