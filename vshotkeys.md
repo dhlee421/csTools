@@ -18,27 +18,27 @@ Show Intellisense __Ctrl + J__ or Show Parameter Information __Ctrl + Shift + Sp
 
 Multi-Cursor __Shift + Alt + Up/Down Arrow__
 
-Comment Selection __ctrl [k][c]__ 
+Comment Selection __Ctrl + K + C__ 
 
-Uncomment Selection __ctrl [k][u]__ 
+Uncomment Selection __Ctrl + K + U__ 
 
-Format Document **ctrl [k][d]**
+Format Document **Ctrl + K + D**
 
-Format Selection **ctrl [k][f]** 
+Format Selection **Ctrl + K + F** 
 
-Bring up window nav dialog **ctrl [tab]** 
+Bring up window nav dialog **Ctrl + Tab** 
 
-Bring up Intellisene window **ctrl [space]**  
+Bring up Intellisene window **Ctrl + Space**  
 
-Surround selected code with **ctrl [k][s]** 
+Surround selected code with **Ctrl + K + S** 
 
-Open snippets dropdown **ctrl [k][x]** 
+Open snippets dropdown **Ctrl + K + X** 
 
-Bring up code snippets manager **ctrl [k][b]** 
+Bring up code snippets manager **Ctrl + K + B** 
 
-Refactor /quick actions menu **ctrl [,]** 
+Refactor /quick actions menu **Ctrl + ,** 
 
-Search Solution Explorer **ctrl [;]** 
+Search Solution Explorer **Ctrl + ;** 
 
 Multi-line Editing using the mouse : __Alt + Mouse__
 
