@@ -3,7 +3,7 @@
 - in, out and ref
 - abstract vs interface
 - Thread vs Task
-- [What's the New C#](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-10/)
+- [What's the New C# 10](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-10/)
 
 ### Books 
 
