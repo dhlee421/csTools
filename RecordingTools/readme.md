@@ -83,4 +83,10 @@ ASUS 나 GigaByte 메인보드의 Audio Driver설치이후 나타남을 확인�
 
 Stereo Mix가 나타나지 않는 경우 검색해 보시면 많은 자료들이 있으니 적절한 자료를 찾아서 시도해보세요~ ^^
 
+![p1](https://user-images.githubusercontent.com/627053/153194821-86e6e99a-5c68-4801-9441-f2317fee254a.PNG)
+
+![p2](https://user-images.githubusercontent.com/627053/153194852-68535d74-87a1-4335-8085-681d9b087698.PNG)
+
+![p3](https://user-images.githubusercontent.com/627053/153194999-3b611a79-3d9e-4043-a5fb-102fbcb87766.PNG)
+
 
