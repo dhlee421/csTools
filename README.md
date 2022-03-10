@@ -10,3 +10,7 @@
 - CLR via C# (4th Ed.)
   > it is good resource for study CLR Architecutre
 - C# in Depth (4th Ed.)
+
+- WPF Control Development Unleashed
+- WPF Pro WPF 4.5 in C#
+- Building Enterprise Applications with Windows Presentation Foundation and the Model View ViewModel Pattern
