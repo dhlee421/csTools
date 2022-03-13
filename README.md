@@ -7,10 +7,13 @@
 
 ### Books 
 
-- CLR via C# (4th Ed.)
+- Microsoft Press, CLR via C# (4th Ed.), Jeffrey Richter
   > it is good resource for study CLR Architecutre
-- C# in Depth (4th Ed.)
 
-- WPF Control Development Unleashed
-- WPF Pro WPF 4.5 in C#
-- Building Enterprise Applications with Windows Presentation Foundation and the Model View ViewModel Pattern
+- Manning, C# in Depth (4th Ed.), Joh Skeet
+
+- SAMS, WPF Control Development Unleashed, Pavan Podila, Kevin Hoffman
+
+- Apress, Pro WPF 4.5 in C#, Matthew MacDonald
+
+- Microsoft, Building Enterprise Applications with Windows Presentation Foundation and the Model View ViewModel Pattern, Raffaele Garofalo
